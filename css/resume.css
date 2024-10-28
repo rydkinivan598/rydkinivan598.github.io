@@ -1,0 +1,20 @@
+body {background-image: url(4949c903e0674c2c9888c06a961b93f1.jpg);}
+		h1 {text-align:center;}
+		h2 {text-align: left;}
+		.fl1
+		{ 
+		float:left;
+		width: 180px;
+		height: 180px;
+		margin-right: 2em;
+		margin-bottom: 2em;}
+		p {text-align: justify;}
+		div {
+			margin: 10px;
+			border: 1px solid black;
+			font-size: 20px;
+			height: 200px;}
+		#header{background-color: #ccc;}
+		#sidebar{background-color: #ddd;}
+		#main{background-color: #eee;}
+		#footer{background-color: #ccc;}
